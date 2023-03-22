@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+Welcome to the Recommended Badges github org.
 
-**Here are some ideas to get you started:**
+This is a side project that I started as a Salesforce application to manage recommended Trailhead badges and trails for Salesforce associates at Revature.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Over time, it's morphed into more of a personal upskilling project. If you'd like to know more, you can check out the [wiki](https://github.com/RecommendedBadges/RecommendedBadges/wiki).
